@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TComplexValid", "TComplexValid\TComplexValid.csproj", "{8A590FA5-372A-4602-986C-FD4EBA0E1FDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestComplex", "UnitTestComplex\UnitTestComplex.csproj", "{1C1E9509-D74F-47FB-AA65-2C51323800C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A590FA5-372A-4602-986C-FD4EBA0E1FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A590FA5-372A-4602-986C-FD4EBA0E1FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A590FA5-372A-4602-986C-FD4EBA0E1FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A590FA5-372A-4602-986C-FD4EBA0E1FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C1E9509-D74F-47FB-AA65-2C51323800C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C1E9509-D74F-47FB-AA65-2C51323800C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C1E9509-D74F-47FB-AA65-2C51323800C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C1E9509-D74F-47FB-AA65-2C51323800C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73E7F0A4-7C7A-4EA5-8048-5A65ED9320F8}
+	EndGlobalSection
+EndGlobal
